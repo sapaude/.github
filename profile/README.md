@@ -1,12 +1,14 @@
-## Hi there 👋
+## 关于Sapaude组织 👋
 
-<!--
+“Sapere aude” 是拉丁语，意为“敢于知道”或“敢于思考”。
 
-**Here are some ideas to get you started:**
+这个短语又德国哲学家伊曼努尔·康德（Immanuel Kant）在其论文《什么是启蒙？》（"Was ist Aufklärung?"）中提到，康德在文中鼓励人们**摆脱自我施加的无知束缚，勇于使用自己的理性去思考和探索**。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+因此我取了`https://sapaude.tech`寓意在技术领域敢于探索和创新实践含义！
+
+## 个人愿景
+
+充分拥抱AI，在AI应用领域能够做出在世界级有影响力的AI软件！！
+
+Respect，加油！！🚀🚀🚀
+
